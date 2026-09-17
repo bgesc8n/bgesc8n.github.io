@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "c765c4c7f0eef56590816246",
+  "owner": "bgesc8n",
+  "repo": "bgesc8n.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "6a815063a7d8c881a6e9525c",
+      "a": "奶油(CreamData)",
+      "b": "官网",
+      "entity": "奶油(CreamData)",
+      "brand": "奶油(CreamData)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5934638108c445339fd251d7deb22edfd4bcf28b8a3e92f7b431e5ce4382d035",
+      "content": {
+        "primary_entity": "奶油(CreamData)",
+        "keyword1": "奶油(CreamData)",
+        "keyword2": "官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，完成订阅配置即可开始使用。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选择适合当前设备数量的套餐，按客户端文档完成订阅配置即可开始。",
+          "AI_CLOSING_TITLE": "从适用套餐开始",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖个人、家庭与小型团队在不同设备数量和流量需求下的使用场景。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量与订阅周期三个方面了解奶油(CreamData)的使用方式。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版适合单人或少量设备，旗舰版覆盖主流个人场景，团队版面向多设备协作。",
+          "AI_FEATURE_TEXT_2": "订阅按设备在线数量区分档位，同一时间超出在线设备数时需调整套餐或断开部分设备。",
+          "AI_FEATURE_TEXT_3": "月付与年付均可选择，年付方案折算到每月费用更低，适合长期稳定使用的用户。",
+          "AI_FEATURE_TITLE_1": "按场景选套餐",
+          "AI_FEATURE_TITLE_2": "设备数量对应档位",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "按步骤完成从选套餐到配置订阅的流程，即可在对应设备上使用。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "奶油(CreamData)提供面向个人与团队的海外加速订阅，按流量、设备数量和线路类型划分套餐，用户可根据实际使用场景选择基础版、旗舰版或团队版。",
+          "AI_HERO_SUBTITLE": "灵活套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同设备数量",
+          "AI_HIGHLIGHT_2": "月付年付按需选择",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "三档套餐按流量、设备数量和线路类型区分，可根据日常使用场景对比后选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、流量需求和预算，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的在线设备数量与线路类型是否满足当前使用环境。",
+          "AI_STEP_TEXT_3": "按照对应客户端的配置说明导入订阅信息，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "奶油(CreamData)套餐导航",
+          "AI_FAQ_ANSWER_1": "基础版适合一至两人轻度使用，旗舰版适合多设备与流媒体、游戏需求，团队版面向多人共享或企业路由，按在线设备数与月流量选择即可。",
+          "AI_FAQ_ANSWER_2": "不同套餐支持的在线设备数不同，基础版较少，旗舰版与团队版依次增加，具体以套餐权益说明为准，超出会导致新设备无法连接。",
+          "AI_FAQ_ANSWER_3": "可以。月付灵活、年付更省，按年付方案折算到每月成本更低，长期使用建议直接选年付。",
+          "AI_FAQ_ANSWER_4": "订阅导入后客户端会按周期自动拉取节点信息，一般无需手动更新，若节点有调整，重新导入订阅链接即可恢复。",
+          "AI_FAQ_ANSWER_5": "先确认设备系统版本并安装对应客户端，再导入订阅链接，若连接异常可切换节点或检查本地网络与防火墙设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同版本套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数有区别吗？",
+          "AI_FAQ_QUESTION_3": "可以按月付还是必须年付？",
+          "AI_FAQ_QUESTION_4": "订阅需要经常手动更新吗？",
+          "AI_FAQ_QUESTION_5": "新手第一次使用怎么开始？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "99b7f05ee9663b10aea93d052425ab93626b625a00916f978c2c20bb1e0c17b8",
+    "sitemap.xml": "39fefae4a7cdc17391a58f5e3a4a8f9522cd549a93b6b28f9f9e1c4dd7357ef9",
+    "robots.txt": "9a5e39558595fa14d12fcb957406e4f26563194404414477b9d3328e48d21acf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "519bf38edbf746c9f5bff3bc375cc5dbcf9da4cad141a137ab2410b3d3e432d7"
+}
